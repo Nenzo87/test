@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377622067639",
+    "project_id": "fir-authentication-ecaf2",
+    "storage_bucket": "fir-authentication-ecaf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377622067639:android:2661baf8eda036db979032",
+        "android_client_info": {
+          "package_name": "com.example.lesson9firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377622067639-edij0raff0qhomk7n7l8nch10hoqbbgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-GyvGDSiWnYpxf1tMXS0vcB6qJeFfVG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377622067639-edij0raff0qhomk7n7l8nch10hoqbbgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
